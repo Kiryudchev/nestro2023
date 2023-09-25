@@ -1,0 +1,3428 @@
+{
+  "M 1.8": [
+    {
+      "place_id": 86667796,
+      "lat": "44.5198957",
+      "lon": "18.5858869",
+      "type": "fuel",
+      "name": "INA",
+      "road": "M-1.8",
+      "state_district": "Tuzlanski kanton"
+    },
+    {
+      "place_id": 86667346,
+      "lat": "44.5305254",
+      "lon": "18.5803362",
+      "type": "fuel",
+      "name": "",
+      "road": "M-1.8",
+      "state_district": "Tuzlanski kanton"
+    },
+    {
+      "place_id": 86315252,
+      "lat": "45.0116016",
+      "lon": "18.6966369",
+      "type": "fuel",
+      "name": "UNITRADE",
+      "road": "M-1.8",
+      "state_district": "\u017dupanija Posavska"
+    },
+    {
+      "place_id": 86482074,
+      "lat": "45.0267435",
+      "lon": "18.70021125",
+      "type": "fuel",
+      "name": "BP Antunovi\u0107",
+      "road": "M-1.8",
+      "state_district": "\u017dupanija Posavska"
+    },
+    {
+      "place_id": 86504050,
+      "lat": "45.0259977",
+      "lon": "18.7014145",
+      "type": "fuel",
+      "name": "",
+      "road": "M-1.8",
+      "state_district": "\u017dupanija Posavska"
+    },
+    {
+      "place_id": 86366726,
+      "lat": "44.529044049999996",
+      "lon": "18.581837431052563",
+      "type": "fuel",
+      "name": "Belamionix",
+      "road": "M-1.8",
+      "state_district": "Tuzlanski kanton"
+    },
+    {
+      "place_id": 87264172,
+      "lat": "44.6176736",
+      "lon": "18.574004350000003",
+      "type": "fuel",
+      "name": "Gazprom Tinja",
+      "road": [
+        "M 1.8"
+      ],
+      "state_district": "Tuzlanski kanton"
+    },
+    {
+      "place_id": 86457884,
+      "lat": "44.6287753",
+      "lon": "18.5609543",
+      "type": "fuel",
+      "name": "",
+      "road": [
+        "M 1.8"
+      ],
+      "state_district": "Tuzlanski kanton"
+    },
+    {
+      "place_id": 86569439,
+      "lat": "44.7870256",
+      "lon": "18.5159399",
+      "type": "fuel",
+      "name": "",
+      "road": [
+        "M 1.8"
+      ],
+      "state_district": "Tuzlanski kanton"
+    }
+  ],
+  "M I 107": [
+    {
+      "place_id": 86510329,
+      "lat": "44.9241848",
+      "lon": "18.6601913",
+      "type": "fuel",
+      "name": "Br\u010dko gas",
+      "road": "M-I 107",
+      "state_district": "None"
+    }
+  ],
+  "M 4": [
+    {
+      "place_id": 86434643,
+      "lat": "44.5147351",
+      "lon": "18.5747999",
+      "type": "fuel",
+      "name": "Belamionix",
+      "road": "M-4",
+      "state_district": "Tuzlanski kanton"
+    },
+    {
+      "place_id": 86789386,
+      "lat": "44.51420265",
+      "lon": "18.574330699999997",
+      "type": "fuel",
+      "name": "Kopex",
+      "road": "M-4",
+      "state_district": "Tuzlanski kanton"
+    },
+    {
+      "place_id": 82523504,
+      "lat": "43.6692044",
+      "lon": "18.97782734510052",
+      "type": "fuel",
+      "name": "EP",
+      "road": [
+        "M 4"
+      ],
+      "state_district": "Bosansko-podrinjski kanton Gora\u017ede"
+    },
+    {
+      "place_id": 86688550,
+      "lat": "44.7243052",
+      "lon": "18.8208943",
+      "type": "fuel",
+      "name": "Tehnopetrol",
+      "road": [
+        "M 4"
+      ],
+      "state_district": "Tuzlanski kanton"
+    },
+    {
+      "place_id": 86505047,
+      "lat": "44.52894",
+      "lon": "18.694745111613294",
+      "type": "fuel",
+      "name": "Hifa-Petrol",
+      "road": [
+        "M 4",
+        "M 18"
+      ],
+      "state_district": "Tuzlanski kanton"
+    },
+    {
+      "place_id": 87637239,
+      "lat": "44.531020999999996",
+      "lon": "18.685134199295028",
+      "type": "fuel",
+      "name": "Gazprom Tuzla 3",
+      "road": [
+        "M 4",
+        "M 18"
+      ],
+      "state_district": "Tuzlanski kanton"
+    },
+    {
+      "place_id": 87634373,
+      "lat": "44.5358186",
+      "lon": "18.659544416981497",
+      "type": "fuel",
+      "name": "INA",
+      "road": [
+        "M 4",
+        "M 18"
+      ],
+      "state_district": "Tuzlanski kanton"
+    },
+    {
+      "place_id": 86376302,
+      "lat": "44.526728",
+      "lon": "18.7405318",
+      "type": "fuel",
+      "name": "Petrol",
+      "road": [
+        "M 4",
+        "M 18"
+      ],
+      "state_district": "Tuzlanski kanton"
+    },
+    {
+      "place_id": 86550209,
+      "lat": "44.53382135",
+      "lon": "18.705333188923298",
+      "type": "fuel",
+      "name": "Energopetrol",
+      "road": [
+        "M 4",
+        "M 18"
+      ],
+      "state_district": "Tuzlanski kanton"
+    },
+    {
+      "place_id": 86462159,
+      "lat": "44.52161275",
+      "lon": "18.598071433928574",
+      "type": "fuel",
+      "name": "Gazprom Tuzla 1",
+      "road": [
+        "M 4",
+        "M 18"
+      ],
+      "state_district": "Tuzlanski kanton"
+    },
+    {
+      "place_id": 81501990,
+      "lat": "43.35925705",
+      "lon": "17.813512315847824",
+      "type": "fuel",
+      "name": "EOL",
+      "road": [
+        "M 4"
+      ],
+      "state_district": "Hercegova\u010dko-neretvanska \u017eupanija (kanton)"
+    },
+    {
+      "place_id": 81380302,
+      "lat": "43.3260499",
+      "lon": "17.822369615302776",
+      "type": "fuel",
+      "name": "Gazprom Mostar 2",
+      "road": [
+        "M 4"
+      ],
+      "state_district": "Hercegova\u010dko-neretvanska \u017eupanija (kanton)"
+    },
+    {
+      "place_id": 86544888,
+      "lat": "44.6534161",
+      "lon": "17.948223",
+      "type": "fuel",
+      "name": "Me\u0161i\u0107 Benz",
+      "road": [
+        "M 4"
+      ],
+      "state_district": "Zeni\u010dko-dobojski kanton"
+    },
+    {
+      "place_id": 86812475,
+      "lat": "44.6547048",
+      "lon": "17.9610057",
+      "type": "fuel",
+      "name": "Energoprom dd",
+      "road": [
+        "M 4"
+      ],
+      "state_district": "Zeni\u010dko-dobojski kanton"
+    },
+    {
+      "place_id": 86567296,
+      "lat": "44.674794649999995",
+      "lon": "18.014390999999996",
+      "type": "fuel",
+      "name": "",
+      "road": [
+        "M 4"
+      ],
+      "state_district": "Zeni\u010dko-dobojski kanton"
+    },
+    {
+      "place_id": 86566368,
+      "lat": "44.6701713",
+      "lon": "18.0023863",
+      "type": "fuel",
+      "name": "",
+      "road": [
+        "M 4"
+      ],
+      "state_district": "Zeni\u010dko-dobojski kanton"
+    },
+    {
+      "place_id": 86566584,
+      "lat": "44.6879379",
+      "lon": "18.0289492",
+      "type": "fuel",
+      "name": "",
+      "road": [
+        "M 4"
+      ],
+      "state_district": "Zeni\u010dko-dobojski kanton"
+    },
+    {
+      "place_id": 86481497,
+      "lat": "44.696369",
+      "lon": "18.0436132",
+      "type": "fuel",
+      "name": "E&E GAS",
+      "road": [
+        "M 4"
+      ],
+      "state_district": "Zeni\u010dko-dobojski kanton"
+    },
+    {
+      "place_id": 86385323,
+      "lat": "44.5837033",
+      "lon": "18.4424319",
+      "type": "fuel",
+      "name": "",
+      "road": [
+        "M 4"
+      ],
+      "state_district": "Tuzlanski kanton"
+    },
+    {
+      "place_id": 87022021,
+      "lat": "44.4532901",
+      "lon": "18.8678275",
+      "type": "fuel",
+      "name": "POLO",
+      "road": [
+        "M 4"
+      ],
+      "state_district": "Tuzlanski kanton"
+    },
+    {
+      "place_id": 86671885,
+      "lat": "44.4600912",
+      "lon": "18.8393258",
+      "type": "fuel",
+      "name": "",
+      "road": [
+        "M 4"
+      ],
+      "state_district": "Tuzlanski kanton"
+    },
+    {
+      "place_id": 86596154,
+      "lat": "44.680728",
+      "lon": "18.3237285",
+      "type": "fuel",
+      "name": "D\u017eananovi\u0107",
+      "road": [
+        "M 4"
+      ],
+      "state_district": "Tuzlanski kanton"
+    },
+    {
+      "place_id": 86574371,
+      "lat": "44.4417698",
+      "lon": "18.8789052",
+      "type": "fuel",
+      "name": "INA",
+      "road": [
+        "M 4"
+      ],
+      "state_district": "Tuzlanski kanton"
+    }
+  ],
+  "Industrijska": [
+    {
+      "place_id": 86462159,
+      "lat": "44.52161275",
+      "lon": "18.598071433928574",
+      "type": "fuel",
+      "name": "Gazprom Tuzla 1",
+      "road": "Industrijska",
+      "state_district": "Tuzlanski kanton"
+    }
+  ],
+  "M 118": [
+    {
+      "place_id": 81237420,
+      "lat": "43.6445631",
+      "lon": "18.964665709524063",
+      "type": "fuel",
+      "name": "El Tarik Oil",
+      "road": [
+        "M 118",
+        "M 20"
+      ],
+      "state_district": "Bosansko-podrinjski kanton Gora\u017ede"
+    },
+    {
+      "place_id": 81152637,
+      "lat": "43.6735781",
+      "lon": "18.98339495702481",
+      "type": "fuel",
+      "name": "Gas stanica LPG",
+      "road": [
+        "M 118",
+        "M 20"
+      ],
+      "state_district": "Bosansko-podrinjski kanton Gora\u017ede"
+    },
+    {
+      "place_id": 81418363,
+      "lat": "43.67315705",
+      "lon": "18.982989026350474",
+      "type": "fuel",
+      "name": "Energopetrol",
+      "road": [
+        "M 118",
+        "M 20"
+      ],
+      "state_district": "Bosansko-podrinjski kanton Gora\u017ede"
+    }
+  ],
+  "M 20": [
+    {
+      "place_id": 81237420,
+      "lat": "43.6445631",
+      "lon": "18.964665709524063",
+      "type": "fuel",
+      "name": "El Tarik Oil",
+      "road": [
+        "M 118",
+        "M 20"
+      ],
+      "state_district": "Bosansko-podrinjski kanton Gora\u017ede"
+    },
+    {
+      "place_id": 81152637,
+      "lat": "43.6735781",
+      "lon": "18.98339495702481",
+      "type": "fuel",
+      "name": "Gas stanica LPG",
+      "road": [
+        "M 118",
+        "M 20"
+      ],
+      "state_district": "Bosansko-podrinjski kanton Gora\u017ede"
+    },
+    {
+      "place_id": 81418363,
+      "lat": "43.67315705",
+      "lon": "18.982989026350474",
+      "type": "fuel",
+      "name": "Energopetrol",
+      "road": [
+        "M 118",
+        "M 20"
+      ],
+      "state_district": "Bosansko-podrinjski kanton Gora\u017ede"
+    }
+  ],
+  "M 113": [
+    {
+      "place_id": 86433561,
+      "lat": "44.2361846",
+      "lon": "18.7002417",
+      "type": "fuel",
+      "name": "Energopetrol",
+      "road": [
+        "M 113",
+        "M 18"
+      ],
+      "state_district": "Tuzlanski kanton"
+    },
+    {
+      "place_id": 81412231,
+      "lat": "43.9207761",
+      "lon": "18.3163118",
+      "type": "fuel",
+      "name": "Energopetrol",
+      "road": [
+        "M 113",
+        "M 18"
+      ],
+      "state_district": "Kanton Sarajevo"
+    },
+    {
+      "place_id": 81233924,
+      "lat": "43.9154407",
+      "lon": "18.3207507",
+      "type": "fuel",
+      "name": "",
+      "road": [
+        "M 113",
+        "M 18"
+      ],
+      "state_district": "Kanton Sarajevo"
+    },
+    {
+      "place_id": 86233371,
+      "lat": "44.12606735",
+      "lon": "18.580207842407397",
+      "type": "fuel",
+      "name": "",
+      "road": [
+        "M 113",
+        "M 18"
+      ],
+      "state_district": "Zeni\u010dko-dobojski kanton"
+    },
+    {
+      "place_id": 86512625,
+      "lat": "44.128800600000005",
+      "lon": "18.584676795528303",
+      "type": "fuel",
+      "name": "Hifa",
+      "road": [
+        "M 113",
+        "M 18"
+      ],
+      "state_district": "Zeni\u010dko-dobojski kanton"
+    },
+    {
+      "place_id": 87607975,
+      "lat": "44.12361445",
+      "lon": "18.580357718400627",
+      "type": "fuel",
+      "name": "",
+      "road": [
+        "M 113",
+        "M 18"
+      ],
+      "state_district": "Zeni\u010dko-dobojski kanton"
+    },
+    {
+      "place_id": 86285701,
+      "lat": "44.4367525",
+      "lon": "18.6574562",
+      "type": "fuel",
+      "name": "",
+      "road": [
+        "M 113",
+        "M 18"
+      ],
+      "state_district": "Tuzlanski kanton"
+    },
+    {
+      "place_id": 86438433,
+      "lat": "44.4433682",
+      "lon": "18.6575018",
+      "type": "fuel",
+      "name": "Sabanovic",
+      "road": [
+        "M 113",
+        "M 18"
+      ],
+      "state_district": "Tuzlanski kanton"
+    },
+    {
+      "place_id": 86723628,
+      "lat": "44.4296553",
+      "lon": "18.6603849",
+      "type": "fuel",
+      "name": "ENERGOPETROL",
+      "road": [
+        "M 113",
+        "M 18"
+      ],
+      "state_district": "Tuzlanski kanton"
+    }
+  ],
+  "M 18": [
+    {
+      "place_id": 86433561,
+      "lat": "44.2361846",
+      "lon": "18.7002417",
+      "type": "fuel",
+      "name": "Energopetrol",
+      "road": [
+        "M 113",
+        "M 18"
+      ],
+      "state_district": "Tuzlanski kanton"
+    },
+    {
+      "place_id": 86505047,
+      "lat": "44.52894",
+      "lon": "18.694745111613294",
+      "type": "fuel",
+      "name": "Hifa-Petrol",
+      "road": [
+        "M 4",
+        "M 18"
+      ],
+      "state_district": "Tuzlanski kanton"
+    },
+    {
+      "place_id": 87637239,
+      "lat": "44.531020999999996",
+      "lon": "18.685134199295028",
+      "type": "fuel",
+      "name": "Gazprom Tuzla 3",
+      "road": [
+        "M 4",
+        "M 18"
+      ],
+      "state_district": "Tuzlanski kanton"
+    },
+    {
+      "place_id": 87641651,
+      "lat": "44.5288436",
+      "lon": "18.7439552",
+      "type": "fuel",
+      "name": "HIFA",
+      "road": [
+        "M 18"
+      ],
+      "state_district": "Tuzlanski kanton"
+    },
+    {
+      "place_id": 87634373,
+      "lat": "44.5358186",
+      "lon": "18.659544416981497",
+      "type": "fuel",
+      "name": "INA",
+      "road": [
+        "M 4",
+        "M 18"
+      ],
+      "state_district": "Tuzlanski kanton"
+    },
+    {
+      "place_id": 86376302,
+      "lat": "44.526728",
+      "lon": "18.7405318",
+      "type": "fuel",
+      "name": "Petrol",
+      "road": [
+        "M 4",
+        "M 18"
+      ],
+      "state_district": "Tuzlanski kanton"
+    },
+    {
+      "place_id": 81412231,
+      "lat": "43.9207761",
+      "lon": "18.3163118",
+      "type": "fuel",
+      "name": "Energopetrol",
+      "road": [
+        "M 113",
+        "M 18"
+      ],
+      "state_district": "Kanton Sarajevo"
+    },
+    {
+      "place_id": 81233924,
+      "lat": "43.9154407",
+      "lon": "18.3207507",
+      "type": "fuel",
+      "name": "",
+      "road": [
+        "M 113",
+        "M 18"
+      ],
+      "state_district": "Kanton Sarajevo"
+    },
+    {
+      "place_id": 86550209,
+      "lat": "44.53382135",
+      "lon": "18.705333188923298",
+      "type": "fuel",
+      "name": "Energopetrol",
+      "road": [
+        "M 4",
+        "M 18"
+      ],
+      "state_district": "Tuzlanski kanton"
+    },
+    {
+      "place_id": 86462159,
+      "lat": "44.52161275",
+      "lon": "18.598071433928574",
+      "type": "fuel",
+      "name": "Gazprom Tuzla 1",
+      "road": [
+        "M 4",
+        "M 18"
+      ],
+      "state_district": "Tuzlanski kanton"
+    },
+    {
+      "place_id": 86233371,
+      "lat": "44.12606735",
+      "lon": "18.580207842407397",
+      "type": "fuel",
+      "name": "",
+      "road": [
+        "M 113",
+        "M 18"
+      ],
+      "state_district": "Zeni\u010dko-dobojski kanton"
+    },
+    {
+      "place_id": 86512625,
+      "lat": "44.128800600000005",
+      "lon": "18.584676795528303",
+      "type": "fuel",
+      "name": "Hifa",
+      "road": [
+        "M 113",
+        "M 18"
+      ],
+      "state_district": "Zeni\u010dko-dobojski kanton"
+    },
+    {
+      "place_id": 83938962,
+      "lat": "43.86748475",
+      "lon": "18.409427691020674",
+      "type": "fuel",
+      "name": "EP",
+      "road": [
+        "M 18"
+      ],
+      "state_district": "Kanton Sarajevo"
+    },
+    {
+      "place_id": 81082988,
+      "lat": "43.859498900000006",
+      "lon": "18.435601581382976",
+      "type": "fuel",
+      "name": "Energopetrol",
+      "road": [
+        "M 18"
+      ],
+      "state_district": "Kanton Sarajevo"
+    },
+    {
+      "place_id": 81396966,
+      "lat": "43.838158050000004",
+      "lon": "18.328885617745904",
+      "type": "fuel",
+      "name": "Energopetrol",
+      "road": [
+        "M 18"
+      ],
+      "state_district": "Kanton Sarajevo"
+    },
+    {
+      "place_id": 87607975,
+      "lat": "44.12361445",
+      "lon": "18.580357718400627",
+      "type": "fuel",
+      "name": "",
+      "road": [
+        "M 113",
+        "M 18"
+      ],
+      "state_district": "Zeni\u010dko-dobojski kanton"
+    },
+    {
+      "place_id": 86285701,
+      "lat": "44.4367525",
+      "lon": "18.6574562",
+      "type": "fuel",
+      "name": "",
+      "road": [
+        "M 113",
+        "M 18"
+      ],
+      "state_district": "Tuzlanski kanton"
+    },
+    {
+      "place_id": 86438433,
+      "lat": "44.4433682",
+      "lon": "18.6575018",
+      "type": "fuel",
+      "name": "Sabanovic",
+      "road": [
+        "M 113",
+        "M 18"
+      ],
+      "state_district": "Tuzlanski kanton"
+    },
+    {
+      "place_id": 86723628,
+      "lat": "44.4296553",
+      "lon": "18.6603849",
+      "type": "fuel",
+      "name": "ENERGOPETROL",
+      "road": [
+        "M 113",
+        "M 18"
+      ],
+      "state_district": "Tuzlanski kanton"
+    }
+  ],
+  "M 14.2": [
+    {
+      "place_id": 86781702,
+      "lat": "44.182148350000006",
+      "lon": "16.367617889890933",
+      "type": "fuel",
+      "name": "Zabri\u0161\u0107e B&M",
+      "road": [
+        "M 14.2"
+      ],
+      "state_district": "Hercegbosanska \u017eupanija"
+    },
+    {
+      "place_id": 86657402,
+      "lat": "44.1768352",
+      "lon": "16.359110173913045",
+      "type": "fuel",
+      "name": "TiOil",
+      "road": [
+        "M 14.2"
+      ],
+      "state_district": "Hercegbosanska \u017eupanija"
+    },
+    {
+      "place_id": 86606060,
+      "lat": "45.0307191",
+      "lon": "18.687872246738287",
+      "type": "fuel",
+      "name": "Marius",
+      "road": [
+        "M 14.2"
+      ],
+      "state_district": "\u017dupanija Posavska"
+    },
+    {
+      "place_id": 86155122,
+      "lat": "45.0532086",
+      "lon": "18.6538183",
+      "type": "fuel",
+      "name": "",
+      "road": [
+        "M 14.2"
+      ],
+      "state_district": "\u017dupanija Posavska"
+    },
+    {
+      "place_id": 86393449,
+      "lat": "45.0394544",
+      "lon": "18.6856173",
+      "type": "fuel",
+      "name": "",
+      "road": [
+        "M 14.2"
+      ],
+      "state_district": "\u017dupanija Posavska"
+    }
+  ],
+  "M 206": [
+    {
+      "place_id": 86555694,
+      "lat": "44.99987335",
+      "lon": "18.324715936962804",
+      "type": "fuel",
+      "name": "Benzinska pumpa",
+      "road": [
+        "M 206",
+        "M 14.1"
+      ],
+      "state_district": "\u017dupanija Posavska"
+    },
+    {
+      "place_id": 86643180,
+      "lat": "44.8499382",
+      "lon": "18.8555994",
+      "type": "fuel",
+      "name": "Benzinska pumpa Laguna",
+      "road": [
+        "M 206",
+        "M 14.1"
+      ],
+      "state_district": "None"
+    }
+  ],
+  "M 14.1": [
+    {
+      "place_id": 86555694,
+      "lat": "44.99987335",
+      "lon": "18.324715936962804",
+      "type": "fuel",
+      "name": "Benzinska pumpa",
+      "road": [
+        "M 206",
+        "M 14.1"
+      ],
+      "state_district": "\u017dupanija Posavska"
+    },
+    {
+      "place_id": 86419305,
+      "lat": "44.8854661",
+      "lon": "18.42073509642857",
+      "type": "fuel",
+      "name": "Hifa",
+      "road": [
+        "M 208",
+        "M 14.1"
+      ],
+      "state_district": "Tuzlanski kanton"
+    },
+    {
+      "place_id": 86465280,
+      "lat": "44.883807",
+      "lon": "18.418162932885842",
+      "type": "fuel",
+      "name": "Energopetrol",
+      "road": [
+        "M 208",
+        "M 14.1"
+      ],
+      "state_district": "Tuzlanski kanton"
+    },
+    {
+      "place_id": 86983958,
+      "lat": "44.8893665",
+      "lon": "18.4224795",
+      "type": "fuel",
+      "name": "Belamionix",
+      "road": [
+        "M 208",
+        "M 14.1"
+      ],
+      "state_district": "Tuzlanski kanton"
+    },
+    {
+      "place_id": 86643180,
+      "lat": "44.8499382",
+      "lon": "18.8555994",
+      "type": "fuel",
+      "name": "Benzinska pumpa Laguna",
+      "road": [
+        "M 206",
+        "M 14.1"
+      ],
+      "state_district": "None"
+    }
+  ],
+  "M 14": [
+    {
+      "place_id": 86554216,
+      "lat": "44.93842",
+      "lon": "16.16098",
+      "type": "fuel",
+      "name": "Partner bp",
+      "road": [
+        "M 14"
+      ],
+      "state_district": "Unsko-sanski kanton"
+    },
+    {
+      "place_id": 86674291,
+      "lat": "44.8993933",
+      "lon": "16.1595973",
+      "type": "fuel",
+      "name": "EP",
+      "road": [
+        "M 14"
+      ],
+      "state_district": "Unsko-sanski kanton"
+    },
+    {
+      "place_id": 86643495,
+      "lat": "44.8971472",
+      "lon": "16.157043",
+      "type": "fuel",
+      "name": "Cavkunovic",
+      "road": [
+        "M 14"
+      ],
+      "state_district": "Unsko-sanski kanton"
+    },
+    {
+      "place_id": 86520795,
+      "lat": "44.8802558",
+      "lon": "16.1533095",
+      "type": "fuel",
+      "name": "",
+      "road": [
+        "M 14"
+      ],
+      "state_district": "Unsko-sanski kanton"
+    }
+  ],
+  "M 4.3": [
+    {
+      "place_id": 86915009,
+      "lat": "45.003941999999995",
+      "lon": "16.13577315",
+      "type": "fuel",
+      "name": "",
+      "road": [
+        "M 4.3"
+      ],
+      "state_district": "Unsko-sanski kanton"
+    }
+  ],
+  "R 402": [
+    {
+      "place_id": 86796752,
+      "lat": "44.94058575",
+      "lon": "16.161295500000012",
+      "type": "fuel",
+      "name": "Ibrahimovi\u0107",
+      "road": [
+        "R 402"
+      ],
+      "state_district": "Unsko-sanski kanton"
+    }
+  ],
+  "M 204": [
+    {
+      "place_id": 86669280,
+      "lat": "44.7914635",
+      "lon": "16.5165339",
+      "type": "fuel",
+      "name": "DPP",
+      "road": [
+        "M 204",
+        "R 405"
+      ],
+      "state_district": "Unsko-sanski kanton"
+    },
+    {
+      "place_id": 86478638,
+      "lat": "44.7688759",
+      "lon": "16.6708083",
+      "type": "fuel",
+      "name": "Hifa Petrol",
+      "road": [
+        "M 204",
+        "R 405"
+      ],
+      "state_district": "Unsko-sanski kanton"
+    },
+    {
+      "place_id": 86546488,
+      "lat": "44.7623823",
+      "lon": "16.6731263",
+      "type": "fuel",
+      "name": "\u010cavkunovi\u0107",
+      "road": [
+        "M 204",
+        "R 405"
+      ],
+      "state_district": "Unsko-sanski kanton"
+    }
+  ],
+  "R 405": [
+    {
+      "place_id": 86669280,
+      "lat": "44.7914635",
+      "lon": "16.5165339",
+      "type": "fuel",
+      "name": "DPP",
+      "road": [
+        "M 204",
+        "R 405"
+      ],
+      "state_district": "Unsko-sanski kanton"
+    },
+    {
+      "place_id": 86478638,
+      "lat": "44.7688759",
+      "lon": "16.6708083",
+      "type": "fuel",
+      "name": "Hifa Petrol",
+      "road": [
+        "M 204",
+        "R 405"
+      ],
+      "state_district": "Unsko-sanski kanton"
+    },
+    {
+      "place_id": 86546488,
+      "lat": "44.7623823",
+      "lon": "16.6731263",
+      "type": "fuel",
+      "name": "\u010cavkunovi\u0107",
+      "road": [
+        "M 204",
+        "R 405"
+      ],
+      "state_district": "Unsko-sanski kanton"
+    }
+  ],
+  "R 459": [
+    {
+      "place_id": 86595125,
+      "lat": "44.7345967",
+      "lon": "18.8072432",
+      "type": "fuel",
+      "name": "PEGGY",
+      "road": [
+        "R 459"
+      ],
+      "state_district": "Tuzlanski kanton"
+    },
+    {
+      "place_id": 87630588,
+      "lat": "44.5564423",
+      "lon": "18.6937398",
+      "type": "fuel",
+      "name": "Nestro",
+      "road": [
+        "R 459"
+      ],
+      "state_district": "Tuzlanski kanton"
+    }
+  ],
+  "M 5": [
+    {
+      "place_id": 86963418,
+      "lat": "44.538101",
+      "lon": "18.682611800000007",
+      "type": "fuel",
+      "name": "INA",
+      "road": [
+        "M 5"
+      ],
+      "state_district": "Tuzlanski kanton"
+    },
+    {
+      "place_id": 81352521,
+      "lat": "43.85245205",
+      "lon": "18.43206225",
+      "type": "fuel",
+      "name": "Hifa Group",
+      "road": [
+        "M 5"
+      ],
+      "state_district": "Kanton Sarajevo"
+    },
+    {
+      "place_id": 81131951,
+      "lat": "43.841816949999995",
+      "lon": "18.323008290268994",
+      "type": "fuel",
+      "name": "INA",
+      "road": [
+        "M 5"
+      ],
+      "state_district": "Kanton Sarajevo"
+    },
+    {
+      "place_id": 81248902,
+      "lat": "43.84151515",
+      "lon": "18.32429085425894",
+      "type": "fuel",
+      "name": "Gazprom Sarajevo 4",
+      "road": [
+        "M 5"
+      ],
+      "state_district": "Kanton Sarajevo"
+    },
+    {
+      "place_id": 81562809,
+      "lat": "43.8383676",
+      "lon": "18.319424899999998",
+      "type": "fuel",
+      "name": "",
+      "road": [
+        "M 5"
+      ],
+      "state_district": "Kanton Sarajevo"
+    },
+    {
+      "place_id": 81355098,
+      "lat": "43.838279650000004",
+      "lon": "18.319243457783216",
+      "type": "fuel",
+      "name": "Petrol",
+      "road": [
+        "M 5"
+      ],
+      "state_district": "Kanton Sarajevo"
+    },
+    {
+      "place_id": 86483362,
+      "lat": "44.14840625",
+      "lon": "17.38324865",
+      "type": "fuel",
+      "name": "",
+      "road": [
+        "M 5"
+      ],
+      "state_district": "Srednjobosanski kanton / \u017dupanija Sredi\u0161nja Bosna"
+    },
+    {
+      "place_id": 86791313,
+      "lat": "44.1481111",
+      "lon": "17.3782193",
+      "type": "fuel",
+      "name": "SilverOst",
+      "road": [
+        "M 5"
+      ],
+      "state_district": "Srednjobosanski kanton / \u017dupanija Sredi\u0161nja Bosna"
+    },
+    {
+      "place_id": 86370555,
+      "lat": "44.2270934",
+      "lon": "17.6809725",
+      "type": "fuel",
+      "name": "Hifa Benz",
+      "road": [
+        "M 5"
+      ],
+      "state_district": "Srednjobosanski kanton / \u017dupanija Sredi\u0161nja Bosna"
+    },
+    {
+      "place_id": 86608405,
+      "lat": "44.227048499999995",
+      "lon": "17.68096731638425",
+      "type": "fuel",
+      "name": "",
+      "road": [
+        "M 5"
+      ],
+      "state_district": "Srednjobosanski kanton / \u017dupanija Sredi\u0161nja Bosna"
+    },
+    {
+      "place_id": 86659271,
+      "lat": "44.2273353",
+      "lon": "17.6672226",
+      "type": "fuel",
+      "name": "EP",
+      "road": [
+        "M 5"
+      ],
+      "state_district": "Srednjobosanski kanton / \u017dupanija Sredi\u0161nja Bosna"
+    },
+    {
+      "place_id": 86738687,
+      "lat": "44.2295175",
+      "lon": "17.64182350897162",
+      "type": "fuel",
+      "name": "INA",
+      "road": [
+        "M 5"
+      ],
+      "state_district": "Srednjobosanski kanton / \u017dupanija Sredi\u0161nja Bosna"
+    },
+    {
+      "place_id": 86610705,
+      "lat": "44.2314778",
+      "lon": "17.636334",
+      "type": "fuel",
+      "name": "ABA",
+      "road": [
+        "M 5"
+      ],
+      "state_district": "Srednjobosanski kanton / \u017dupanija Sredi\u0161nja Bosna"
+    },
+    {
+      "place_id": 82458567,
+      "lat": "43.8589779",
+      "lon": "18.2277699",
+      "type": "fuel",
+      "name": "",
+      "road": [
+        "M 5"
+      ],
+      "state_district": "Kanton Sarajevo"
+    },
+    {
+      "place_id": 81109279,
+      "lat": "43.8794848",
+      "lon": "18.1982791",
+      "type": "fuel",
+      "name": "HIFA",
+      "road": [
+        "M 5"
+      ],
+      "state_district": "Kanton Sarajevo"
+    },
+    {
+      "place_id": 86744152,
+      "lat": "44.205623349999996",
+      "lon": "17.718236898578603",
+      "type": "fuel",
+      "name": "",
+      "road": [
+        "M 5"
+      ],
+      "state_district": "Srednjobosanski kanton / \u017dupanija Sredi\u0161nja Bosna"
+    },
+    {
+      "place_id": 86580480,
+      "lat": "44.188804000000005",
+      "lon": "17.739957424000004",
+      "type": "fuel",
+      "name": "Barel",
+      "road": [
+        "M 5"
+      ],
+      "state_district": "Srednjobosanski kanton / \u017dupanija Sredi\u0161nja Bosna"
+    },
+    {
+      "place_id": 87728185,
+      "lat": "44.18493975",
+      "lon": "17.746229317544667",
+      "type": "fuel",
+      "name": "",
+      "road": [
+        "M 5"
+      ],
+      "state_district": "Srednjobosanski kanton / \u017dupanija Sredi\u0161nja Bosna"
+    },
+    {
+      "place_id": 86368899,
+      "lat": "44.18574555",
+      "lon": "17.74535251341952",
+      "type": "fuel",
+      "name": "Tioil",
+      "road": [
+        "M 5"
+      ],
+      "state_district": "Srednjobosanski kanton / \u017dupanija Sredi\u0161nja Bosna"
+    },
+    {
+      "place_id": 86766504,
+      "lat": "44.175332749999995",
+      "lon": "17.75675276837736",
+      "type": "fuel",
+      "name": "Jerry",
+      "road": [
+        "M 5"
+      ],
+      "state_district": "Srednjobosanski kanton / \u017dupanija Sredi\u0161nja Bosna"
+    },
+    {
+      "place_id": 86365913,
+      "lat": "44.164091600000006",
+      "lon": "17.791662816261447",
+      "type": "fuel",
+      "name": "Eurotrank",
+      "road": [
+        "M 5"
+      ],
+      "state_district": "Srednjobosanski kanton / \u017dupanija Sredi\u0161nja Bosna"
+    },
+    {
+      "place_id": 86577146,
+      "lat": "44.1578213",
+      "lon": "17.7971207",
+      "type": "fuel",
+      "name": "Buba",
+      "road": [
+        "M 5"
+      ],
+      "state_district": "Srednjobosanski kanton / \u017dupanija Sredi\u0161nja Bosna"
+    },
+    {
+      "place_id": 86465109,
+      "lat": "44.15788945",
+      "lon": "17.79728559391144",
+      "type": "fuel",
+      "name": "",
+      "road": [
+        "M 5"
+      ],
+      "state_district": "Srednjobosanski kanton / \u017dupanija Sredi\u0161nja Bosna"
+    },
+    {
+      "place_id": 86323764,
+      "lat": "44.2394268",
+      "lon": "17.5742932",
+      "type": "fuel",
+      "name": "INA",
+      "road": [
+        "M 5"
+      ],
+      "state_district": "Srednjobosanski kanton / \u017dupanija Sredi\u0161nja Bosna"
+    },
+    {
+      "place_id": 86717632,
+      "lat": "44.2441025",
+      "lon": "17.597076151214935",
+      "type": "fuel",
+      "name": "",
+      "road": [
+        "M 5"
+      ],
+      "state_district": "Srednjobosanski kanton / \u017dupanija Sredi\u0161nja Bosna"
+    },
+    {
+      "place_id": 81170533,
+      "lat": "43.8926962",
+      "lon": "18.1584629",
+      "type": "fuel",
+      "name": "Zigi",
+      "road": [
+        "M 5"
+      ],
+      "state_district": "Srednjobosanski kanton / \u017dupanija Sredi\u0161nja Bosna"
+    },
+    {
+      "place_id": 81218950,
+      "lat": "43.9612077",
+      "lon": "18.0565565",
+      "type": "fuel",
+      "name": "",
+      "road": [
+        "M 5"
+      ],
+      "state_district": "Srednjobosanski kanton / \u017dupanija Sredi\u0161nja Bosna"
+    },
+    {
+      "place_id": 81361093,
+      "lat": "43.9405248",
+      "lon": "18.0802874",
+      "type": "fuel",
+      "name": "BM",
+      "road": [
+        "M 5"
+      ],
+      "state_district": "Srednjobosanski kanton / \u017dupanija Sredi\u0161nja Bosna"
+    },
+    {
+      "place_id": 81384322,
+      "lat": "43.970418",
+      "lon": "18.0538614",
+      "type": "fuel",
+      "name": "",
+      "road": [
+        "M 5"
+      ],
+      "state_district": "Srednjobosanski kanton / \u017dupanija Sredi\u0161nja Bosna"
+    },
+    {
+      "place_id": 81294611,
+      "lat": "43.9730985",
+      "lon": "18.051817",
+      "type": "fuel",
+      "name": "Grakop",
+      "road": [
+        "M 5"
+      ],
+      "state_district": "Srednjobosanski kanton / \u017dupanija Sredi\u0161nja Bosna"
+    },
+    {
+      "place_id": 81155327,
+      "lat": "43.9755328",
+      "lon": "18.0501944",
+      "type": "fuel",
+      "name": "B&M",
+      "road": [
+        "M 5"
+      ],
+      "state_district": "Srednjobosanski kanton / \u017dupanija Sredi\u0161nja Bosna"
+    }
+  ],
+  "M 110": [
+    {
+      "place_id": 86453587,
+      "lat": "44.4814387",
+      "lon": "18.0690279",
+      "type": "fuel",
+      "name": "Sli\u0161ko",
+      "road": [
+        "M 110",
+        "M 17"
+      ],
+      "state_district": "Zeni\u010dko-dobojski kanton"
+    },
+    {
+      "place_id": 81150242,
+      "lat": "43.32627995",
+      "lon": "17.825059344657213",
+      "type": "fuel",
+      "name": "Hifa",
+      "road": [
+        "M 110",
+        "M 17"
+      ],
+      "state_district": "Hercegova\u010dko-neretvanska \u017eupanija (kanton)"
+    },
+    {
+      "place_id": 81470866,
+      "lat": "43.313714450000006",
+      "lon": "17.82929369920712",
+      "type": "fuel",
+      "name": "EP",
+      "road": [
+        "M 110",
+        "M 17"
+      ],
+      "state_district": "Hercegova\u010dko-neretvanska \u017eupanija (kanton)"
+    },
+    {
+      "place_id": 86398483,
+      "lat": "44.5241858",
+      "lon": "18.0946713",
+      "type": "fuel",
+      "name": "",
+      "road": [
+        "M 110",
+        "M 17"
+      ],
+      "state_district": "Zeni\u010dko-dobojski kanton"
+    },
+    {
+      "place_id": 87042898,
+      "lat": "44.5774472",
+      "lon": "18.0960048",
+      "type": "fuel",
+      "name": "",
+      "road": [
+        "M 110",
+        "M 17"
+      ],
+      "state_district": "Zeni\u010dko-dobojski kanton"
+    },
+    {
+      "place_id": 86406749,
+      "lat": "44.5945633",
+      "lon": "18.0914904",
+      "type": "fuel",
+      "name": "D\u017eino",
+      "road": [
+        "M 110",
+        "M 17"
+      ],
+      "state_district": "Zeni\u010dko-dobojski kanton"
+    },
+    {
+      "place_id": 81286264,
+      "lat": "43.6760209",
+      "lon": "17.98500034331382",
+      "type": "fuel",
+      "name": "Petrol",
+      "road": [
+        "M 110",
+        "M 17"
+      ],
+      "state_district": "Hercegova\u010dko-neretvanska \u017eupanija (kanton)"
+    },
+    {
+      "place_id": 81259922,
+      "lat": "43.6415078",
+      "lon": "17.759300462087026",
+      "type": "fuel",
+      "name": "Benzinska stanica \"Delta Oil\"",
+      "road": [
+        "M 110",
+        "M 17"
+      ],
+      "state_district": "Hercegova\u010dko-neretvanska \u017eupanija (kanton)"
+    },
+    {
+      "place_id": 87734037,
+      "lat": "44.350003",
+      "lon": "17.9698858",
+      "type": "fuel",
+      "name": "",
+      "road": [
+        "M 110",
+        "M 17"
+      ],
+      "state_district": "Zeni\u010dko-dobojski kanton"
+    },
+    {
+      "place_id": 88554126,
+      "lat": "44.65351",
+      "lon": "18.0769294",
+      "type": "fuel",
+      "name": "Belamionix",
+      "road": [
+        "M 110",
+        "M 17"
+      ],
+      "state_district": "Zeni\u010dko-dobojski kanton"
+    }
+  ],
+  "M 17": [
+    {
+      "place_id": 86453587,
+      "lat": "44.4814387",
+      "lon": "18.0690279",
+      "type": "fuel",
+      "name": "Sli\u0161ko",
+      "road": [
+        "M 110",
+        "M 17"
+      ],
+      "state_district": "Zeni\u010dko-dobojski kanton"
+    },
+    {
+      "place_id": 81534478,
+      "lat": "43.363584450000005",
+      "lon": "17.818195557129975",
+      "type": "fuel",
+      "name": "INA",
+      "road": [
+        "M 115",
+        "M 17"
+      ],
+      "state_district": "Hercegova\u010dko-neretvanska \u017eupanija (kanton)"
+    },
+    {
+      "place_id": 81150242,
+      "lat": "43.32627995",
+      "lon": "17.825059344657213",
+      "type": "fuel",
+      "name": "Hifa",
+      "road": [
+        "M 110",
+        "M 17"
+      ],
+      "state_district": "Hercegova\u010dko-neretvanska \u017eupanija (kanton)"
+    },
+    {
+      "place_id": 81470866,
+      "lat": "43.313714450000006",
+      "lon": "17.82929369920712",
+      "type": "fuel",
+      "name": "EP",
+      "road": [
+        "M 110",
+        "M 17"
+      ],
+      "state_district": "Hercegova\u010dko-neretvanska \u017eupanija (kanton)"
+    },
+    {
+      "place_id": 86398483,
+      "lat": "44.5241858",
+      "lon": "18.0946713",
+      "type": "fuel",
+      "name": "",
+      "road": [
+        "M 110",
+        "M 17"
+      ],
+      "state_district": "Zeni\u010dko-dobojski kanton"
+    },
+    {
+      "place_id": 87042898,
+      "lat": "44.5774472",
+      "lon": "18.0960048",
+      "type": "fuel",
+      "name": "",
+      "road": [
+        "M 110",
+        "M 17"
+      ],
+      "state_district": "Zeni\u010dko-dobojski kanton"
+    },
+    {
+      "place_id": 86406749,
+      "lat": "44.5945633",
+      "lon": "18.0914904",
+      "type": "fuel",
+      "name": "D\u017eino",
+      "road": [
+        "M 110",
+        "M 17"
+      ],
+      "state_district": "Zeni\u010dko-dobojski kanton"
+    },
+    {
+      "place_id": 81245743,
+      "lat": "43.6563984",
+      "lon": "17.953470466463415",
+      "type": "fuel",
+      "name": "Benzinska stanica Konjic I",
+      "road": [
+        "M 115",
+        "M 17"
+      ],
+      "state_district": "Hercegova\u010dko-neretvanska \u017eupanija (kanton)"
+    },
+    {
+      "place_id": 81638195,
+      "lat": "43.6561814",
+      "lon": "17.950762798636397",
+      "type": "fuel",
+      "name": "Gazprom Konjic",
+      "road": [
+        "M 115",
+        "M 17"
+      ],
+      "state_district": "Hercegova\u010dko-neretvanska \u017eupanija (kanton)"
+    },
+    {
+      "place_id": 81102375,
+      "lat": "43.6600212",
+      "lon": "17.97086560393069",
+      "type": "fuel",
+      "name": "Hifa Petrol",
+      "road": [
+        "M 115",
+        "M 17"
+      ],
+      "state_district": "Hercegova\u010dko-neretvanska \u017eupanija (kanton)"
+    },
+    {
+      "place_id": 81286264,
+      "lat": "43.6760209",
+      "lon": "17.98500034331382",
+      "type": "fuel",
+      "name": "Petrol",
+      "road": [
+        "M 110",
+        "M 17"
+      ],
+      "state_district": "Hercegova\u010dko-neretvanska \u017eupanija (kanton)"
+    },
+    {
+      "place_id": 81259922,
+      "lat": "43.6415078",
+      "lon": "17.759300462087026",
+      "type": "fuel",
+      "name": "Benzinska stanica \"Delta Oil\"",
+      "road": [
+        "M 110",
+        "M 17"
+      ],
+      "state_district": "Hercegova\u010dko-neretvanska \u017eupanija (kanton)"
+    },
+    {
+      "place_id": 81158161,
+      "lat": "43.65456925",
+      "lon": "17.759741236292665",
+      "type": "fuel",
+      "name": "EP",
+      "road": [
+        "M 115",
+        "M 17"
+      ],
+      "state_district": "Hercegova\u010dko-neretvanska \u017eupanija (kanton)"
+    },
+    {
+      "place_id": 81311099,
+      "lat": "43.66392295",
+      "lon": "17.769104784904044",
+      "type": "fuel",
+      "name": "Maksumi\u0107 Oil",
+      "road": [
+        "M 115",
+        "M 17"
+      ],
+      "state_district": "Hercegova\u010dko-neretvanska \u017eupanija (kanton)"
+    },
+    {
+      "place_id": 81311313,
+      "lat": "43.787869400000005",
+      "lon": "18.162257712719807",
+      "type": "fuel",
+      "name": "",
+      "road": [
+        "M 115",
+        "M 17"
+      ],
+      "state_district": "Kanton Sarajevo"
+    },
+    {
+      "place_id": 81226922,
+      "lat": "43.79551975",
+      "lon": "18.179011600000003",
+      "type": "fuel",
+      "name": "",
+      "road": [
+        "M 115",
+        "M 17"
+      ],
+      "state_district": "Kanton Sarajevo"
+    },
+    {
+      "place_id": 87734037,
+      "lat": "44.350003",
+      "lon": "17.9698858",
+      "type": "fuel",
+      "name": "",
+      "road": [
+        "M 110",
+        "M 17"
+      ],
+      "state_district": "Zeni\u010dko-dobojski kanton"
+    },
+    {
+      "place_id": 88554126,
+      "lat": "44.65351",
+      "lon": "18.0769294",
+      "type": "fuel",
+      "name": "Belamionix",
+      "road": [
+        "M 110",
+        "M 17"
+      ],
+      "state_district": "Zeni\u010dko-dobojski kanton"
+    },
+    {
+      "place_id": 82458071,
+      "lat": "43.830353099999996",
+      "lon": "18.21084699910067",
+      "type": "fuel",
+      "name": "INA",
+      "road": [
+        "M 115",
+        "M 17"
+      ],
+      "state_district": "Kanton Sarajevo"
+    },
+    {
+      "place_id": 81134212,
+      "lat": "43.8481819",
+      "lon": "18.240598397227338",
+      "type": "fuel",
+      "name": "Energopetrol",
+      "road": [
+        "M 115",
+        "M 17"
+      ],
+      "state_district": "Kanton Sarajevo"
+    },
+    {
+      "place_id": 81395943,
+      "lat": "43.83173205",
+      "lon": "18.211367847628203",
+      "type": "fuel",
+      "name": "Polo",
+      "road": [
+        "M 115",
+        "M 17"
+      ],
+      "state_district": "Kanton Sarajevo"
+    },
+    {
+      "place_id": 81431843,
+      "lat": "43.938311850000005",
+      "lon": "18.081658981077688",
+      "type": "fuel",
+      "name": "Ina",
+      "road": [
+        "M 17"
+      ],
+      "state_district": "Srednjobosanski kanton / \u017dupanija Sredi\u0161nja Bosna"
+    },
+    {
+      "place_id": 81218405,
+      "lat": "43.9316283",
+      "lon": "18.0911351",
+      "type": "fuel",
+      "name": "Tioil",
+      "road": [
+        "M 17"
+      ],
+      "state_district": "Srednjobosanski kanton / \u017dupanija Sredi\u0161nja Bosna"
+    }
+  ],
+  "R 458": [
+    {
+      "place_id": 87682061,
+      "lat": "44.8508887",
+      "lon": "18.8156964",
+      "type": "fuel",
+      "name": "Br\u010dko Gas",
+      "road": [
+        "R 458"
+      ],
+      "state_district": "None"
+    },
+    {
+      "place_id": 86593475,
+      "lat": "44.8409741",
+      "lon": "18.8194789",
+      "type": "fuel",
+      "name": "Dragstes",
+      "road": [
+        "R 458"
+      ],
+      "state_district": "None"
+    }
+  ],
+  "N ikole Tesl": [
+    {
+      "place_id": 86974000,
+      "lat": "44.8620343",
+      "lon": "18.8114965",
+      "type": "fuel",
+      "name": "Energy Benz",
+      "road": [
+        "N ikole Tesl"
+      ],
+      "state_district": "None"
+    },
+    {
+      "place_id": 86326568,
+      "lat": "44.8587938",
+      "lon": "18.812494214462546",
+      "type": "fuel",
+      "name": "",
+      "road": [
+        "N ikole Tesl"
+      ],
+      "state_district": "None"
+    },
+    {
+      "place_id": 86841849,
+      "lat": "44.8587916",
+      "lon": "18.8125027",
+      "type": "fuel",
+      "name": "NGV",
+      "road": [
+        "N ikole Tesl"
+      ],
+      "state_district": "None"
+    }
+  ],
+  "M II 500": [
+    {
+      "place_id": 86644445,
+      "lat": "44.877515",
+      "lon": "18.7973688",
+      "type": "fuel",
+      "name": "Br\u010dko Gas",
+      "road": [
+        "M II 500"
+      ],
+      "state_district": "None"
+    },
+    {
+      "place_id": 86440248,
+      "lat": "45.144273",
+      "lon": "18.013863",
+      "type": "fuel",
+      "name": "Br\u010dko Gas",
+      "road": [
+        "M II 500"
+      ],
+      "state_district": "None"
+    }
+  ],
+  "M 6.1": [
+    {
+      "place_id": 81251162,
+      "lat": "43.34134745",
+      "lon": "17.798425239665843",
+      "type": "fuel",
+      "name": "Lamina",
+      "road": [
+        "M 6.1"
+      ],
+      "state_district": "Hercegova\u010dko-neretvanska \u017eupanija (kanton)"
+    },
+    {
+      "place_id": 81314624,
+      "lat": "43.3365247",
+      "lon": "17.77184187997203",
+      "type": "fuel",
+      "name": "Petrol",
+      "road": [
+        "M 6.1"
+      ],
+      "state_district": "Hercegova\u010dko-neretvanska \u017eupanija (kanton)"
+    },
+    {
+      "place_id": 81177325,
+      "lat": "43.350577200000004",
+      "lon": "17.805171322302535",
+      "type": "fuel",
+      "name": "Arena Oil",
+      "road": [
+        "M 6.1"
+      ],
+      "state_district": "Hercegova\u010dko-neretvanska \u017eupanija (kanton)"
+    },
+    {
+      "place_id": 81233949,
+      "lat": "43.3393927",
+      "lon": "17.8086542",
+      "type": "fuel",
+      "name": "OIL-AC",
+      "road": [
+        "M 6.1"
+      ],
+      "state_district": "Hercegova\u010dko-neretvanska \u017eupanija (kanton)"
+    },
+    {
+      "place_id": 81444644,
+      "lat": "43.8399039",
+      "lon": "16.9733806",
+      "type": "fuel",
+      "name": "Benzinska postaja B&M",
+      "road": [
+        "M 6.1"
+      ],
+      "state_district": "Hercegbosanska \u017eupanija"
+    },
+    {
+      "place_id": 81201099,
+      "lat": "43.7019441",
+      "lon": "17.2107930640896",
+      "type": "fuel",
+      "name": "BTG",
+      "road": [
+        "M 6.1"
+      ],
+      "state_district": "Hercegbosanska \u017eupanija"
+    }
+  ],
+  "M 115": [
+    {
+      "place_id": 81534478,
+      "lat": "43.363584450000005",
+      "lon": "17.818195557129975",
+      "type": "fuel",
+      "name": "INA",
+      "road": [
+        "M 115",
+        "M 17"
+      ],
+      "state_district": "Hercegova\u010dko-neretvanska \u017eupanija (kanton)"
+    },
+    {
+      "place_id": 81245743,
+      "lat": "43.6563984",
+      "lon": "17.953470466463415",
+      "type": "fuel",
+      "name": "Benzinska stanica Konjic I",
+      "road": [
+        "M 115",
+        "M 17"
+      ],
+      "state_district": "Hercegova\u010dko-neretvanska \u017eupanija (kanton)"
+    },
+    {
+      "place_id": 81638195,
+      "lat": "43.6561814",
+      "lon": "17.950762798636397",
+      "type": "fuel",
+      "name": "Gazprom Konjic",
+      "road": [
+        "M 115",
+        "M 17"
+      ],
+      "state_district": "Hercegova\u010dko-neretvanska \u017eupanija (kanton)"
+    },
+    {
+      "place_id": 81102375,
+      "lat": "43.6600212",
+      "lon": "17.97086560393069",
+      "type": "fuel",
+      "name": "Hifa Petrol",
+      "road": [
+        "M 115",
+        "M 17"
+      ],
+      "state_district": "Hercegova\u010dko-neretvanska \u017eupanija (kanton)"
+    },
+    {
+      "place_id": 81158161,
+      "lat": "43.65456925",
+      "lon": "17.759741236292665",
+      "type": "fuel",
+      "name": "EP",
+      "road": [
+        "M 115",
+        "M 17"
+      ],
+      "state_district": "Hercegova\u010dko-neretvanska \u017eupanija (kanton)"
+    },
+    {
+      "place_id": 81311099,
+      "lat": "43.66392295",
+      "lon": "17.769104784904044",
+      "type": "fuel",
+      "name": "Maksumi\u0107 Oil",
+      "road": [
+        "M 115",
+        "M 17"
+      ],
+      "state_district": "Hercegova\u010dko-neretvanska \u017eupanija (kanton)"
+    },
+    {
+      "place_id": 81311313,
+      "lat": "43.787869400000005",
+      "lon": "18.162257712719807",
+      "type": "fuel",
+      "name": "",
+      "road": [
+        "M 115",
+        "M 17"
+      ],
+      "state_district": "Kanton Sarajevo"
+    },
+    {
+      "place_id": 81226922,
+      "lat": "43.79551975",
+      "lon": "18.179011600000003",
+      "type": "fuel",
+      "name": "",
+      "road": [
+        "M 115",
+        "M 17"
+      ],
+      "state_district": "Kanton Sarajevo"
+    },
+    {
+      "place_id": 82458071,
+      "lat": "43.830353099999996",
+      "lon": "18.21084699910067",
+      "type": "fuel",
+      "name": "INA",
+      "road": [
+        "M 115",
+        "M 17"
+      ],
+      "state_district": "Kanton Sarajevo"
+    },
+    {
+      "place_id": 81134212,
+      "lat": "43.8481819",
+      "lon": "18.240598397227338",
+      "type": "fuel",
+      "name": "Energopetrol",
+      "road": [
+        "M 115",
+        "M 17"
+      ],
+      "state_district": "Kanton Sarajevo"
+    },
+    {
+      "place_id": 81395943,
+      "lat": "43.83173205",
+      "lon": "18.211367847628203",
+      "type": "fuel",
+      "name": "Polo",
+      "road": [
+        "M 115",
+        "M 17"
+      ],
+      "state_district": "Kanton Sarajevo"
+    }
+  ],
+  "M 2": [
+    {
+      "place_id": 81246165,
+      "lat": "42.9111212",
+      "lon": "17.6299633",
+      "type": "fuel",
+      "name": "INA Neum",
+      "road": [
+        "M 2"
+      ],
+      "state_district": "Hercegova\u010dko-neretvanska \u017eupanija (kanton)"
+    }
+  ],
+  "R 953": [
+    {
+      "place_id": 81381724,
+      "lat": "42.9260867",
+      "lon": "17.6155664",
+      "type": "fuel",
+      "name": "Auro",
+      "road": [
+        "R 953"
+      ],
+      "state_district": "Hercegova\u010dko-neretvanska \u017eupanija (kanton)"
+    }
+  ],
+  "R 165": [
+    {
+      "place_id": 86523193,
+      "lat": "44.617144",
+      "lon": "16.6595744",
+      "type": "fuel",
+      "name": "Benzinska pumpa \u010cavkunovi\u0107",
+      "road": [
+        "R 165",
+        "R 407"
+      ],
+      "state_district": "Unsko-sanski kanton"
+    }
+  ],
+  "R 407": [
+    {
+      "place_id": 86523193,
+      "lat": "44.617144",
+      "lon": "16.6595744",
+      "type": "fuel",
+      "name": "Benzinska pumpa \u010cavkunovi\u0107",
+      "road": [
+        "R 165",
+        "R 407"
+      ],
+      "state_district": "Unsko-sanski kanton"
+    }
+  ],
+  "M 205": [
+    {
+      "place_id": 86874597,
+      "lat": "44.70586405",
+      "lon": "16.72168359603163",
+      "type": "fuel",
+      "name": "Speed Petrol",
+      "road": [
+        "M 205",
+        "M 15"
+      ],
+      "state_district": "Unsko-sanski kanton"
+    },
+    {
+      "place_id": 87747661,
+      "lat": "44.7713893",
+      "lon": "16.6447276",
+      "type": "fuel",
+      "name": "CAT",
+      "road": [
+        "M 205",
+        "M 15"
+      ],
+      "state_district": "Unsko-sanski kanton"
+    },
+    {
+      "place_id": 86760439,
+      "lat": "44.7562534",
+      "lon": "16.6605687",
+      "type": "fuel",
+      "name": "EP",
+      "road": [
+        "M 205",
+        "M 15"
+      ],
+      "state_district": "Unsko-sanski kanton"
+    },
+    {
+      "place_id": 86656088,
+      "lat": "44.7474708",
+      "lon": "16.674491",
+      "type": "fuel",
+      "name": "PRODIST",
+      "road": [
+        "M 205",
+        "M 15"
+      ],
+      "state_district": "Unsko-sanski kanton"
+    }
+  ],
+  "M 15": [
+    {
+      "place_id": 86874597,
+      "lat": "44.70586405",
+      "lon": "16.72168359603163",
+      "type": "fuel",
+      "name": "Speed Petrol",
+      "road": [
+        "M 205",
+        "M 15"
+      ],
+      "state_district": "Unsko-sanski kanton"
+    },
+    {
+      "place_id": 81139881,
+      "lat": "43.8425483",
+      "lon": "16.9679838",
+      "type": "fuel",
+      "name": "",
+      "road": [
+        "M 104",
+        "M 15"
+      ],
+      "state_district": "Hercegbosanska \u017eupanija"
+    },
+    {
+      "place_id": 87747661,
+      "lat": "44.7713893",
+      "lon": "16.6447276",
+      "type": "fuel",
+      "name": "CAT",
+      "road": [
+        "M 205",
+        "M 15"
+      ],
+      "state_district": "Unsko-sanski kanton"
+    },
+    {
+      "place_id": 86760439,
+      "lat": "44.7562534",
+      "lon": "16.6605687",
+      "type": "fuel",
+      "name": "EP",
+      "road": [
+        "M 205",
+        "M 15"
+      ],
+      "state_district": "Unsko-sanski kanton"
+    },
+    {
+      "place_id": 86656088,
+      "lat": "44.7474708",
+      "lon": "16.674491",
+      "type": "fuel",
+      "name": "PRODIST",
+      "road": [
+        "M 205",
+        "M 15"
+      ],
+      "state_district": "Unsko-sanski kanton"
+    }
+  ],
+  "R 455": [
+    {
+      "place_id": 86346122,
+      "lat": "44.540045",
+      "lon": "18.0910702",
+      "type": "fuel",
+      "name": "BP ENERGOPETROL",
+      "road": [
+        "R 455"
+      ],
+      "state_district": "Zeni\u010dko-dobojski kanton"
+    },
+    {
+      "place_id": 86412267,
+      "lat": "44.5421132",
+      "lon": "18.0921279",
+      "type": "fuel",
+      "name": "BP D\u017eino",
+      "road": [
+        "R 455"
+      ],
+      "state_district": "Zeni\u010dko-dobojski kanton"
+    },
+    {
+      "place_id": 86518977,
+      "lat": "44.4308644",
+      "lon": "18.6944207",
+      "type": "fuel",
+      "name": "",
+      "road": [
+        "R 455"
+      ],
+      "state_district": "Tuzlanski kanton"
+    },
+    {
+      "place_id": 86335348,
+      "lat": "44.4473455",
+      "lon": "18.6496879",
+      "type": "fuel",
+      "name": "IN VIVO",
+      "road": [
+        "R 362",
+        "R 455"
+      ],
+      "state_district": "Tuzlanski kanton"
+    },
+    {
+      "place_id": 86390787,
+      "lat": "44.4561962",
+      "lon": "18.6428529",
+      "type": "fuel",
+      "name": "HIFA-Petrol",
+      "road": [
+        "R 362",
+        "R 455"
+      ],
+      "state_district": "Tuzlanski kanton"
+    }
+  ],
+  "R 474": [
+    {
+      "place_id": 86514019,
+      "lat": "44.662005050000005",
+      "lon": "17.950746773314606",
+      "type": "fuel",
+      "name": "\u0106eman-Energoprom d.o.o. Jelah",
+      "road": [
+        "R 474"
+      ],
+      "state_district": "Zeni\u010dko-dobojski kanton"
+    },
+    {
+      "place_id": 86627015,
+      "lat": "44.6338786",
+      "lon": "17.9767155",
+      "type": "fuel",
+      "name": "",
+      "road": [
+        "R 474"
+      ],
+      "state_district": "Zeni\u010dko-dobojski kanton"
+    }
+  ],
+  "M 213": [
+    {
+      "place_id": 86491609,
+      "lat": "44.6064557",
+      "lon": "17.9865128",
+      "type": "fuel",
+      "name": "Benzinska INA",
+      "road": [
+        "M 213",
+        "R 469"
+      ],
+      "state_district": "Zeni\u010dko-dobojski kanton"
+    },
+    {
+      "place_id": 86811467,
+      "lat": "44.6903722",
+      "lon": "18.300966",
+      "type": "fuel",
+      "name": "MaxEnergy",
+      "road": [
+        "M 213",
+        "R 465"
+      ],
+      "state_district": "Tuzlanski kanton"
+    },
+    {
+      "place_id": 87633343,
+      "lat": "44.41318195",
+      "lon": "18.53694642463281",
+      "type": "fuel",
+      "name": "Hifa Oil",
+      "road": [
+        "M 213",
+        "R 469"
+      ],
+      "state_district": "Tuzlanski kanton"
+    },
+    {
+      "place_id": 86549358,
+      "lat": "44.413698100000005",
+      "lon": "18.556599708396085",
+      "type": "fuel",
+      "name": "",
+      "road": [
+        "M 213",
+        "R 469"
+      ],
+      "state_district": "Tuzlanski kanton"
+    }
+  ],
+  "R 469": [
+    {
+      "place_id": 86491609,
+      "lat": "44.6064557",
+      "lon": "17.9865128",
+      "type": "fuel",
+      "name": "Benzinska INA",
+      "road": [
+        "M 213",
+        "R 469"
+      ],
+      "state_district": "Zeni\u010dko-dobojski kanton"
+    },
+    {
+      "place_id": 86228067,
+      "lat": "44.47263095",
+      "lon": "18.700673456633883",
+      "type": "fuel",
+      "name": "Polo",
+      "road": [
+        "M 212",
+        "R 469"
+      ],
+      "state_district": "Tuzlanski kanton"
+    },
+    {
+      "place_id": 87633343,
+      "lat": "44.41318195",
+      "lon": "18.53694642463281",
+      "type": "fuel",
+      "name": "Hifa Oil",
+      "road": [
+        "M 213",
+        "R 469"
+      ],
+      "state_district": "Tuzlanski kanton"
+    },
+    {
+      "place_id": 86549358,
+      "lat": "44.413698100000005",
+      "lon": "18.556599708396085",
+      "type": "fuel",
+      "name": "",
+      "road": [
+        "M 213",
+        "R 469"
+      ],
+      "state_district": "Tuzlanski kanton"
+    }
+  ],
+  "R 452": [
+    {
+      "place_id": 87661816,
+      "lat": "44.627386",
+      "lon": "18.000668545280917",
+      "type": "fuel",
+      "name": "Hifa-Petrol",
+      "road": [
+        "R 452"
+      ],
+      "state_district": "Zeni\u010dko-dobojski kanton"
+    }
+  ],
+  "A 1": [
+    {
+      "place_id": 86414726,
+      "lat": "44.6575583",
+      "lon": "18.0162244",
+      "type": "fuel",
+      "name": "",
+      "road": [
+        "A 1"
+      ],
+      "state_district": "Zeni\u010dko-dobojski kanton"
+    }
+  ],
+  "M I 106": [
+    {
+      "place_id": 87624496,
+      "lat": "44.855638299999995",
+      "lon": "17.680919485766413",
+      "type": "fuel",
+      "name": "NIS petrol",
+      "road": [
+        "M I 106"
+      ],
+      "state_district": "None"
+    },
+    {
+      "place_id": 86526341,
+      "lat": "44.8614264",
+      "lon": "17.670855",
+      "type": "fuel",
+      "name": "",
+      "road": [
+        "M I 106"
+      ],
+      "state_district": "None"
+    },
+    {
+      "place_id": 86499335,
+      "lat": "44.8623115",
+      "lon": "17.6694666",
+      "type": "fuel",
+      "name": "Nestro Prnjavor",
+      "road": [
+        "M I 106"
+      ],
+      "state_district": "None"
+    }
+  ],
+  "R 460": [
+    {
+      "place_id": 81115529,
+      "lat": "43.656819",
+      "lon": "17.948848553502017",
+      "type": "fuel",
+      "name": "EP",
+      "road": [
+        "R 460"
+      ],
+      "state_district": "Hercegova\u010dko-neretvanska \u017eupanija (kanton)"
+    },
+    {
+      "place_id": 86554022,
+      "lat": "44.8614037",
+      "lon": "18.7705512",
+      "type": "fuel",
+      "name": "Energy Benz",
+      "road": [
+        "R 460"
+      ],
+      "state_district": "None"
+    },
+    {
+      "place_id": 86478717,
+      "lat": "44.860285149999996",
+      "lon": "18.75722815969582",
+      "type": "fuel",
+      "name": "Me\u0161i\u0107",
+      "road": [
+        "R 460"
+      ],
+      "state_district": "None"
+    },
+    {
+      "place_id": 87683194,
+      "lat": "44.8626322",
+      "lon": "18.77638234165467",
+      "type": "fuel",
+      "name": "Benzinska pumpa Belamionix",
+      "road": [
+        "R 460"
+      ],
+      "state_district": "None"
+    }
+  ],
+  "R 435": [
+    {
+      "place_id": 81112088,
+      "lat": "43.6392135",
+      "lon": "17.9734904",
+      "type": "fuel",
+      "name": "",
+      "road": [
+        "R 435"
+      ],
+      "state_district": "Hercegova\u010dko-neretvanska \u017eupanija (kanton)"
+    }
+  ],
+  "M 219": [
+    {
+      "place_id": 82426622,
+      "lat": "43.798859",
+      "lon": "17.6330699",
+      "type": "fuel",
+      "name": "Ti\u0161ko benz",
+      "road": [
+        "M 219",
+        "M 16.2"
+      ],
+      "state_district": "Hercegova\u010dko-neretvanska \u017eupanija (kanton)"
+    },
+    {
+      "place_id": 81792251,
+      "lat": "43.8153314",
+      "lon": "17.6146353",
+      "type": "fuel",
+      "name": "Ti-Oil",
+      "road": [
+        "M 219",
+        "M 16.2"
+      ],
+      "state_district": "Hercegova\u010dko-neretvanska \u017eupanija (kanton)"
+    },
+    {
+      "place_id": 87744099,
+      "lat": "44.0343569",
+      "lon": "17.4587067",
+      "type": "fuel",
+      "name": "MGM-benzinska postaja",
+      "road": [
+        "M 219",
+        "M 16.2"
+      ],
+      "state_district": "Srednjobosanski kanton / \u017dupanija Sredi\u0161nja Bosna"
+    },
+    {
+      "place_id": 87699923,
+      "lat": "44.047403599999996",
+      "lon": "17.44521202026654",
+      "type": "fuel",
+      "name": "HIFA-Petrol",
+      "road": [
+        "M 219",
+        "M 16.2"
+      ],
+      "state_district": "Srednjobosanski kanton / \u017dupanija Sredi\u0161nja Bosna"
+    }
+  ],
+  "M 16.2": [
+    {
+      "place_id": 82426622,
+      "lat": "43.798859",
+      "lon": "17.6330699",
+      "type": "fuel",
+      "name": "Ti\u0161ko benz",
+      "road": [
+        "M 219",
+        "M 16.2"
+      ],
+      "state_district": "Hercegova\u010dko-neretvanska \u017eupanija (kanton)"
+    },
+    {
+      "place_id": 81792251,
+      "lat": "43.8153314",
+      "lon": "17.6146353",
+      "type": "fuel",
+      "name": "Ti-Oil",
+      "road": [
+        "M 219",
+        "M 16.2"
+      ],
+      "state_district": "Hercegova\u010dko-neretvanska \u017eupanija (kanton)"
+    },
+    {
+      "place_id": 87744099,
+      "lat": "44.0343569",
+      "lon": "17.4587067",
+      "type": "fuel",
+      "name": "MGM-benzinska postaja",
+      "road": [
+        "M 219",
+        "M 16.2"
+      ],
+      "state_district": "Srednjobosanski kanton / \u017dupanija Sredi\u0161nja Bosna"
+    },
+    {
+      "place_id": 87699923,
+      "lat": "44.047403599999996",
+      "lon": "17.44521202026654",
+      "type": "fuel",
+      "name": "HIFA-Petrol",
+      "road": [
+        "M 219",
+        "M 16.2"
+      ],
+      "state_district": "Srednjobosanski kanton / \u017dupanija Sredi\u0161nja Bosna"
+    }
+  ],
+  "M 208": [
+    {
+      "place_id": 86419305,
+      "lat": "44.8854661",
+      "lon": "18.42073509642857",
+      "type": "fuel",
+      "name": "Hifa",
+      "road": [
+        "M 208",
+        "M 14.1"
+      ],
+      "state_district": "Tuzlanski kanton"
+    },
+    {
+      "place_id": 86465280,
+      "lat": "44.883807",
+      "lon": "18.418162932885842",
+      "type": "fuel",
+      "name": "Energopetrol",
+      "road": [
+        "M 208",
+        "M 14.1"
+      ],
+      "state_district": "Tuzlanski kanton"
+    },
+    {
+      "place_id": 86983958,
+      "lat": "44.8893665",
+      "lon": "18.4224795",
+      "type": "fuel",
+      "name": "Belamionix",
+      "road": [
+        "M 208",
+        "M 14.1"
+      ],
+      "state_district": "Tuzlanski kanton"
+    }
+  ],
+  "R 462": [
+    {
+      "place_id": 86331039,
+      "lat": "44.9088425",
+      "lon": "18.4304913",
+      "type": "fuel",
+      "name": "UNIKOMERC BP, Grada\u010dac",
+      "road": [
+        "R 462",
+        "R 468"
+      ],
+      "state_district": "Tuzlanski kanton"
+    },
+    {
+      "place_id": 86568445,
+      "lat": "44.90893",
+      "lon": "18.42973",
+      "type": "fuel",
+      "name": "Punionica Plina UNIKOMERC, Gradacac",
+      "road": [
+        "R 462",
+        "R 468"
+      ],
+      "state_district": "Tuzlanski kanton"
+    }
+  ],
+  "R 468": [
+    {
+      "place_id": 86331039,
+      "lat": "44.9088425",
+      "lon": "18.4304913",
+      "type": "fuel",
+      "name": "UNIKOMERC BP, Grada\u010dac",
+      "road": [
+        "R 462",
+        "R 468"
+      ],
+      "state_district": "Tuzlanski kanton"
+    },
+    {
+      "place_id": 86568445,
+      "lat": "44.90893",
+      "lon": "18.42973",
+      "type": "fuel",
+      "name": "Punionica Plina UNIKOMERC, Gradacac",
+      "road": [
+        "R 462",
+        "R 468"
+      ],
+      "state_district": "Tuzlanski kanton"
+    }
+  ],
+  "B C1": [
+    {
+      "place_id": 81787827,
+      "lat": "43.8642108",
+      "lon": "18.3009062",
+      "type": "fuel",
+      "name": "CNG Refuelling station",
+      "road": [
+        "B C1"
+      ],
+      "state_district": "Kanton Sarajevo"
+    }
+  ],
+  "R 954": [
+    {
+      "place_id": 81811021,
+      "lat": "43.8406267",
+      "lon": "18.320893510929338",
+      "type": "fuel",
+      "name": "Bra\u0107a Muji\u0107",
+      "road": [
+        "R 954"
+      ],
+      "state_district": "Kanton Sarajevo"
+    }
+  ],
+  "M 107": [
+    {
+      "place_id": 81346062,
+      "lat": "43.7987926",
+      "lon": "16.9393671",
+      "type": "fuel",
+      "name": "B&M",
+      "road": [
+        "M 107",
+        "M 16"
+      ],
+      "state_district": "Hercegbosanska \u017eupanija"
+    }
+  ],
+  "M 16": [
+    {
+      "place_id": 81346062,
+      "lat": "43.7987926",
+      "lon": "16.9393671",
+      "type": "fuel",
+      "name": "B&M",
+      "road": [
+        "M 107",
+        "M 16"
+      ],
+      "state_district": "Hercegbosanska \u017eupanija"
+    },
+    {
+      "place_id": 81174175,
+      "lat": "43.9900591",
+      "lon": "17.2791595",
+      "type": "fuel",
+      "name": "BP \u0106urkovi\u0107",
+      "road": [
+        "M 106",
+        "M 16"
+      ],
+      "state_district": "Hercegbosanska \u017eupanija"
+    },
+    {
+      "place_id": 86508449,
+      "lat": "44.0839109",
+      "lon": "17.4454442",
+      "type": "fuel",
+      "name": "Benzinska postaja INA",
+      "road": [
+        "M 106",
+        "M 16"
+      ],
+      "state_district": "Srednjobosanski kanton / \u017dupanija Sredi\u0161nja Bosna"
+    }
+  ],
+  "R 415": [
+    {
+      "place_id": 81107719,
+      "lat": "43.996058",
+      "lon": "17.2777899",
+      "type": "fuel",
+      "name": "Benzinska postaja",
+      "road": [
+        "R 415"
+      ],
+      "state_district": "Hercegbosanska \u017eupanija"
+    }
+  ],
+  "M 104": [
+    {
+      "place_id": 81139881,
+      "lat": "43.8425483",
+      "lon": "16.9679838",
+      "type": "fuel",
+      "name": "",
+      "road": [
+        "M 104",
+        "M 15"
+      ],
+      "state_district": "Hercegbosanska \u017eupanija"
+    }
+  ],
+  "R 956": [
+    {
+      "place_id": 86702676,
+      "lat": "44.7679849",
+      "lon": "16.6553489",
+      "type": "fuel",
+      "name": "Ina",
+      "road": [
+        "R 956"
+      ],
+      "state_district": "Unsko-sanski kanton"
+    }
+  ],
+  "M II 501": [
+    {
+      "place_id": 86761448,
+      "lat": "44.85184735",
+      "lon": "16.67617811141912",
+      "type": "fuel",
+      "name": "",
+      "road": [
+        "M II 501"
+      ],
+      "state_district": "None"
+    }
+  ],
+  "M 17.4": [
+    {
+      "place_id": 81715039,
+      "lat": "43.2716843",
+      "lon": "17.7291753",
+      "type": "fuel",
+      "name": "Benzinska postaja / gas station",
+      "road": [
+        "M 17.4"
+      ],
+      "state_district": "Hercegova\u010dko-neretvanska \u017eupanija (kanton)"
+    },
+    {
+      "place_id": 81028559,
+      "lat": "43.2925119",
+      "lon": "17.7614437",
+      "type": "fuel",
+      "name": "Benzinska postaja / Gas Station",
+      "road": [
+        "M 17.4"
+      ],
+      "state_district": "Hercegova\u010dko-neretvanska \u017eupanija (kanton)"
+    },
+    {
+      "place_id": 81088946,
+      "lat": "43.1810917",
+      "lon": "17.5179296",
+      "type": "fuel",
+      "name": "K-Benz",
+      "road": [
+        "M 17.4"
+      ],
+      "state_district": "\u017dupanija zapadnohercegova\u010dka"
+    },
+    {
+      "place_id": 81412709,
+      "lat": "43.2000521",
+      "lon": "17.5814633",
+      "type": "fuel",
+      "name": "MB",
+      "road": [
+        "M 17.4"
+      ],
+      "state_district": "\u017dupanija zapadnohercegova\u010dka"
+    },
+    {
+      "place_id": 82441193,
+      "lat": "43.1998011",
+      "lon": "17.5784194",
+      "type": "fuel",
+      "name": "Peri\u0107",
+      "road": [
+        "M 17.4"
+      ],
+      "state_district": "\u017dupanija zapadnohercegova\u010dka"
+    }
+  ],
+  "M 6": [
+    {
+      "place_id": 81201570,
+      "lat": "43.1936759",
+      "lon": "17.5687386",
+      "type": "fuel",
+      "name": "AGS",
+      "road": [
+        "M 6"
+      ],
+      "state_district": "\u017dupanija zapadnohercegova\u010dka"
+    },
+    {
+      "place_id": 81521249,
+      "lat": "43.193937",
+      "lon": "17.5677609",
+      "type": "fuel",
+      "name": "Gojan II",
+      "road": [
+        "M 6"
+      ],
+      "state_district": "\u017dupanija zapadnohercegova\u010dka"
+    },
+    {
+      "place_id": 81210546,
+      "lat": "43.1231872",
+      "lon": "17.8651134",
+      "type": "fuel",
+      "name": "Markbenz",
+      "road": [
+        "M 6"
+      ],
+      "state_district": "Hercegova\u010dko-neretvanska \u017eupanija (kanton)"
+    }
+  ],
+  "M 4.2": [
+    {
+      "place_id": 99459978,
+      "lat": "45.179292700000005",
+      "lon": "15.811904668961866",
+      "type": "fuel",
+      "name": "Grand Benz",
+      "road": [
+        "M 4.2"
+      ],
+      "state_district": "Unsko-sanski kanton"
+    },
+    {
+      "place_id": 99548140,
+      "lat": "45.1605462",
+      "lon": "15.82119579824532",
+      "type": "fuel",
+      "name": "Ba\u0161i\u0107-Benz",
+      "road": [
+        "M 4.2"
+      ],
+      "state_district": "Unsko-sanski kanton"
+    },
+    {
+      "place_id": 99542748,
+      "lat": "45.1597109",
+      "lon": "15.821667036612315",
+      "type": "fuel",
+      "name": "Auto Wal",
+      "road": [
+        "M 4.2"
+      ],
+      "state_district": "Unsko-sanski kanton"
+    },
+    {
+      "place_id": 99368634,
+      "lat": "45.192989499999996",
+      "lon": "15.79318155098499",
+      "type": "fuel",
+      "name": "Bushel-Barel",
+      "road": [
+        "M 4.2"
+      ],
+      "state_district": "Unsko-sanski kanton"
+    },
+    {
+      "place_id": 99316835,
+      "lat": "45.17971515",
+      "lon": "15.809842079271275",
+      "type": "fuel",
+      "name": "Agrokomerc",
+      "road": [
+        "M 4.2"
+      ],
+      "state_district": "Unsko-sanski kanton"
+    }
+  ],
+  "R 400": [
+    {
+      "place_id": 99161713,
+      "lat": "45.1930298",
+      "lon": "15.812721",
+      "type": "fuel",
+      "name": "Sudo-Luka",
+      "road": [
+        "R 400"
+      ],
+      "state_district": "Unsko-sanski kanton"
+    }
+  ],
+  "R 465": [
+    {
+      "place_id": 86811467,
+      "lat": "44.6903722",
+      "lon": "18.300966",
+      "type": "fuel",
+      "name": "MaxEnergy",
+      "road": [
+        "M 213",
+        "R 465"
+      ],
+      "state_district": "Tuzlanski kanton"
+    }
+  ],
+  "M 212": [
+    {
+      "place_id": 86228067,
+      "lat": "44.47263095",
+      "lon": "18.700673456633883",
+      "type": "fuel",
+      "name": "Polo",
+      "road": [
+        "M 212",
+        "R 469"
+      ],
+      "state_district": "Tuzlanski kanton"
+    }
+  ],
+  "R 362": [
+    {
+      "place_id": 86335348,
+      "lat": "44.4473455",
+      "lon": "18.6496879",
+      "type": "fuel",
+      "name": "IN VIVO",
+      "road": [
+        "R 362",
+        "R 455"
+      ],
+      "state_district": "Tuzlanski kanton"
+    },
+    {
+      "place_id": 86390787,
+      "lat": "44.4561962",
+      "lon": "18.6428529",
+      "type": "fuel",
+      "name": "HIFA-Petrol",
+      "road": [
+        "R 362",
+        "R 455"
+      ],
+      "state_district": "Tuzlanski kanton"
+    }
+  ],
+  "M 106": [
+    {
+      "place_id": 81174175,
+      "lat": "43.9900591",
+      "lon": "17.2791595",
+      "type": "fuel",
+      "name": "BP \u0106urkovi\u0107",
+      "road": [
+        "M 106",
+        "M 16"
+      ],
+      "state_district": "Hercegbosanska \u017eupanija"
+    },
+    {
+      "place_id": 86508449,
+      "lat": "44.0839109",
+      "lon": "17.4454442",
+      "type": "fuel",
+      "name": "Benzinska postaja INA",
+      "road": [
+        "M 106",
+        "M 16"
+      ],
+      "state_district": "Srednjobosanski kanton / \u017dupanija Sredi\u0161nja Bosna"
+    }
+  ],
+  "M 17.5": [
+    {
+      "place_id": 81127531,
+      "lat": "43.4579676",
+      "lon": "17.33991",
+      "type": "fuel",
+      "name": "MIS Benz",
+      "road": [
+        "M 17.5"
+      ],
+      "state_district": "\u017dupanija zapadnohercegova\u010dka"
+    }
+  ],
+  "M I 105": [
+    {
+      "place_id": 87295384,
+      "lat": "44.853999",
+      "lon": "18.0606912",
+      "type": "fuel",
+      "name": "Petrol",
+      "road": [
+        "M I 105"
+      ],
+      "state_district": "None"
+    }
+  ],
+  "M I 103": [
+    {
+      "place_id": 86487850,
+      "lat": "44.8572294",
+      "lon": "18.0573674",
+      "type": "fuel",
+      "name": "Dragstes",
+      "road": [
+        "M I 103"
+      ],
+      "state_district": "None"
+    },
+    {
+      "place_id": 86602675,
+      "lat": "45.13927165",
+      "lon": "18.001694243217514",
+      "type": "fuel",
+      "name": "INA",
+      "road": [
+        "M I 103"
+      ],
+      "state_district": "None"
+    },
+    {
+      "place_id": 86335556,
+      "lat": "45.1420446",
+      "lon": "18.0052089",
+      "type": "fuel",
+      "name": "Vidic Petrol",
+      "road": [
+        "M I 103"
+      ],
+      "state_district": "None"
+    },
+    {
+      "place_id": 86395269,
+      "lat": "45.1419506",
+      "lon": "18.0053899",
+      "type": "fuel",
+      "name": "",
+      "road": [
+        "M I 103"
+      ],
+      "state_district": "None"
+    }
+  ],
+  "R 251": [
+    {
+      "place_id": 86337660,
+      "lat": "45.0300408",
+      "lon": "18.6482853",
+      "type": "fuel",
+      "name": "",
+      "road": [
+        "R 251",
+        "R 463"
+      ],
+      "state_district": "\u017dupanija Posavska"
+    },
+    {
+      "place_id": 86504566,
+      "lat": "45.0420149",
+      "lon": "18.6631841",
+      "type": "fuel",
+      "name": "",
+      "road": [
+        "R 251",
+        "R 463"
+      ],
+      "state_district": "\u017dupanija Posavska"
+    }
+  ],
+  "R 463": [
+    {
+      "place_id": 86337660,
+      "lat": "45.0300408",
+      "lon": "18.6482853",
+      "type": "fuel",
+      "name": "",
+      "road": [
+        "R 251",
+        "R 463"
+      ],
+      "state_district": "\u017dupanija Posavska"
+    },
+    {
+      "place_id": 86504566,
+      "lat": "45.0420149",
+      "lon": "18.6631841",
+      "type": "fuel",
+      "name": "",
+      "road": [
+        "R 251",
+        "R 463"
+      ],
+      "state_district": "\u017dupanija Posavska"
+    }
+  ],
+  "M 220": [
+    {
+      "place_id": 81136753,
+      "lat": "43.9752025",
+      "lon": "18.0494004",
+      "type": "fuel",
+      "name": "BM",
+      "road": [
+        "M 220",
+        "R 438"
+      ],
+      "state_district": "Srednjobosanski kanton / \u017dupanija Sredi\u0161nja Bosna"
+    }
+  ],
+  "R 438": [
+    {
+      "place_id": 81136753,
+      "lat": "43.9752025",
+      "lon": "18.0494004",
+      "type": "fuel",
+      "name": "BM",
+      "road": [
+        "M 220",
+        "R 438"
+      ],
+      "state_district": "Srednjobosanski kanton / \u017dupanija Sredi\u0161nja Bosna"
+    }
+  ],
+  "M 221": [
+    {
+      "place_id": 81243232,
+      "lat": "43.9456438",
+      "lon": "18.083332979302362",
+      "type": "fuel",
+      "name": "Orman",
+      "road": [
+        "M 221",
+        "R 443"
+      ],
+      "state_district": "Srednjobosanski kanton / \u017dupanija Sredi\u0161nja Bosna"
+    },
+    {
+      "place_id": 86461284,
+      "lat": "44.5371364",
+      "lon": "18.6532754",
+      "type": "fuel",
+      "name": "Petrol BH",
+      "road": [
+        "M 221",
+        "R 443"
+      ],
+      "state_district": "Tuzlanski kanton"
+    }
+  ],
+  "R 443": [
+    {
+      "place_id": 81243232,
+      "lat": "43.9456438",
+      "lon": "18.083332979302362",
+      "type": "fuel",
+      "name": "Orman",
+      "road": [
+        "M 221",
+        "R 443"
+      ],
+      "state_district": "Srednjobosanski kanton / \u017dupanija Sredi\u0161nja Bosna"
+    },
+    {
+      "place_id": 86461284,
+      "lat": "44.5371364",
+      "lon": "18.6532754",
+      "type": "fuel",
+      "name": "Petrol BH",
+      "road": [
+        "M 221",
+        "R 443"
+      ],
+      "state_district": "Tuzlanski kanton"
+    }
+  ],
+  "M 17.3": [
+    {
+      "place_id": 81393023,
+      "lat": "43.10929765",
+      "lon": "17.904550600540865",
+      "type": "fuel",
+      "name": "Tioil",
+      "road": [
+        "M 17.3"
+      ],
+      "state_district": "Hercegova\u010dko-neretvanska \u017eupanija (kanton)"
+    }
+  ],
+  "M 218": [
+    {
+      "place_id": 86637750,
+      "lat": "44.1943908",
+      "lon": "17.6952105",
+      "type": "fuel",
+      "name": "Tioil",
+      "road": [
+        "M 218",
+        "M 16.4"
+      ],
+      "state_district": "Srednjobosanski kanton / \u017dupanija Sredi\u0161nja Bosna"
+    }
+  ],
+  "M 16.4": [
+    {
+      "place_id": 86637750,
+      "lat": "44.1943908",
+      "lon": "17.6952105",
+      "type": "fuel",
+      "name": "Tioil",
+      "road": [
+        "M 218",
+        "M 16.4"
+      ],
+      "state_district": "Srednjobosanski kanton / \u017dupanija Sredi\u0161nja Bosna"
+    }
+  ],
+  "R 957": [
+    {
+      "place_id": 81702973,
+      "lat": "43.8642064",
+      "lon": "18.402320607455277",
+      "type": "fuel",
+      "name": "El Tarik Oil",
+      "road": [
+        "R 957"
+      ],
+      "state_district": "Kanton Sarajevo"
+    }
+  ],
+  "P I 5101": [
+    {
+      "place_id": 81142882,
+      "lat": "43.832702",
+      "lon": "18.3802726",
+      "type": "fuel",
+      "name": "Ne\u0161kovi\u0107",
+      "road": [
+        "P I 5101"
+      ],
+      "state_district": "None"
+    }
+  ]
+}
